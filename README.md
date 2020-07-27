@@ -1,5 +1,7 @@
 # tic-tac-toe-game
 A player can play a perfect game of tic-tac-toe (to win or, at least, draw) if each time it is his turn to play he chooses the first available move from the following list, as used in Newell and Simon's 1972 tic-tac-toe program.
+
+
 Win: If the player has two in a row, they can place a third to get three in a row.
 Block: If the opponent has two in a row, the player must play the third themselves to block the opponent.
 Fork: Create an opportunity where the player has two threats to win (two non-blocked lines of 2).
